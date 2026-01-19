@@ -4,17 +4,13 @@
 **🕙 Time:** 2:00 p.m - 5:00 p.m.  
 **📍 Venue:** Hyflex Classroom, Block N28A / Webex Meeting
 **🎤 Industry Talk:** Data Analytics, Infrastructure & SAP
-**👤 Speaker:** 
-                 - Ai Ling Ooi (APAC IT LEAD of PPG)
-                 - Lee Man Shin (Senior IT Manager, Data Analytics Lead of PPG)
-                 - Vijaykumar Dhandapani (Cloud Architecture Lead of PPG)
-                 - Patrick Thong (SAP Operations DTR Lead of PPG)
+**👤 Speaker:** *Ai Ling Ooi* (APAC IT LEAD of PPG) , *Lee Man Shin* (Senior IT Manager, Data Analytics Lead of PPG) , *Vijaykumar Dhandapani* (Cloud Architecture Lead of PPG) & *Patrick Thong* (SAP Operations DTR Lead of PPG).
 
 ### 🗒️ Summary
-During this session, I gained significant exposure to the system development practices utilized in real-world industrial projects. A key highlight was learning how Agile methodology is applied to manage team-based projects effectively, specifically its flexibility in adapting to changing requirements to ensure the final product aligns with user needs. The talk also emphasized the critical importance of face-to-face communication in development teams to minimize misunderstandings, enable faster decision-making, and strengthen collaboration. Furthermore, I had the opportunity to visit several industry booths, including Dell, Microcorp, and D-Ron, to explore current technological trends.
+I had the privilege of hearing from the leadership team at PPG, including the APAC IT Lead, Data Analytics Lead, Cloud Architecture Lead, and SAP Operations DTR Lead. As a first-year Computer Science student, it was a valuable opportunity to see how enterprise-level technology functions outside of a classroom setting. The talk delved into the complex world of Data Analytics, Infrastructure, and SAP. My biggest takeaway was seeing how global organizations bridge the gap between massive data streams and actionable business intelligence. It’s not just about the code; it’s about building a scalable infrastructure that can support thousands of users while maintaining security and efficiency. Understanding how these "As-Is" industrial landscapes are modernized into "To-Be" digital architectures has given me a much clearer roadmap for my own studies in systems development. 🚀
 
 ### 💡 Reflection
-From this talk, I obtained valuable information regarding team project management which I can actively practice during my studies to manage group assignments more effectively. This experience helped me better understand the fundamental importance of teamwork, clear communication, and maintaining consistent progress throughout a project's lifecycle. To improve future sessions, I would suggest including a brief hands-on demonstration of Agile tools used in the industry to provide a more practical understanding of the workflow.
+The industry talk regarding PPG provided a unique look at how technology and industrial processes intersect within the Malaysian corporate landscape. Through this talk, I gained knowledge on how digital infrastructure supports large-scale operations and the importance of maintaining data integrity in an industrial setting. Designing the poster for this assignment helped me learn how to distill complex industrial information into a visually engaging format for a wider audience. I suggest that future talks include more specific case studies of network failures to help students understand real-world troubleshooting. I found that visual storytelling is a powerful tool for explaining technical concepts to non-experts.
 
 ### 📽️ Video & Pictures
 **Meeting Links:**[Password:cP3tW8jD]([https://youtu.be/KEKFc0wy8Kg](https://utm.webex.com/recordingservice/sites/utm/recording/playback/b2a5a83b03b84ca98d701845ec9fed71))
