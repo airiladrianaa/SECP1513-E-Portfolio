@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8e93f7e8-fb24-40bd-97ea-d2545b2c74ff" />## 🖥️ PC Assemble
+## 🖥️ PC Assemble
 
 **📅 Date:** 12 November 2025  
 **🕙 Time:** 10:50 a.m – 11:40 a.m.  
@@ -15,6 +15,3 @@ Participating in the PC assembly lab was a vital practical experience that bridg
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/73d2684b-f6e0-47c5-a4f9-6af6a48bd06d" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6f3c4e3f-5a6e-430c-b309-e3bc1868162a" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/beafafdd-4462-42b8-8a2d-7c11e877c527" />
-
-
---
