@@ -1,7 +1,7 @@
 ## 🏢 Industry Visit to Biocon Sdn. Bhd
 
-**📅 Date:** 23 December 2025
-**🕙 Time:** 2:30 p.m - 6:00 p.m.
+**📅 Date:** 23 December 2025  
+**🕙 Time:** 2:30 p.m - 6:00 p.m.  
 **📍 Venue:** Biocon Sdn. Bhd., Iskandar Puteri, Johor.
 
 ### 🗒️ Summary
